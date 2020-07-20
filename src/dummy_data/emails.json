@@ -1,0 +1,96 @@
+[
+    {
+        "id": 5,
+        "from": "asrafhossain197@gmail.com",
+        "subject": "[Github] Logout page",
+        "date": "2020-07-20T14:34:50.417+09:00",
+        "hasAttachment": true,
+        "mails": [
+            {
+                "id": 1,
+                "to": "jannathossainjui@yahoo.com",
+                "subject": "[Github] Logout page",
+                "email_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel metus sit amet quam placerat congue.",
+                "date": "2020-07-20T14:34:50.417+09:00"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "from": "asrafhossain197@gmail.com",
+        "subject": "[Github] Logout page",
+        "date": "2020-07-19T15:51:50.417+09:00",
+        "hasAttachment": false,
+        "mails": [
+            {
+                "id": 2,
+                "to": "idontknow@yahoo.com",
+                "subject": "[Github] Logout page",
+                "email_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel metus sit amet quam placerat congue.",
+                "date": "2020-07-19T15:51:50.417+09:00"
+            },
+            {
+                "id": 1,
+                "to": "idontknow@yahoo.com",
+                "subject": "[Github] Logout page",
+                "email_body": "Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+                "date": "2012-01-26T13:51:50.417+09:00"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "from": "asrafhossain197@gmail.com",
+        "subject": "[info:888] ABC EQUIPMENT COMPANY",
+        "date": "2012-01-26T13:51:50.417+09:00",
+        "hasAttachment": false,
+        "mails": [
+            {
+                "id": 1,
+                "subject": "[Github] Logout page",
+                "to": "jannathossainjui@yahoo.com",
+                "email_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel metus sit amet quam placerat congue.",
+                "date": "2012-01-26T13:51:50.417+09:00"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "from": "asrafhossain197@gmail.com",
+        "subject": "[ HR-888 ] Notice of official announcement",
+        "date": "2012-01-26T13:51:50.417+09:00",
+        "hasAttachment": true,
+        "mails": [
+            {
+                "id": 2,
+                "to": "alex@yahoo.com",
+                "subject": "[Github] Logout page",
+                "email_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel metus sit amet quam placerat congue.",
+                "date": "2012-01-26T13:51:50.417+09:00"
+            },
+            {
+                "id": 1,
+                "to": "awice@gmail.com",
+                "subject": "[Github] Logout page",
+                "email_body": "Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+                "date": "2012-01-26T02:24:50.417+09:00"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "from": "asrafhossain197@gmail.com",
+        "subject": "[Github] Logout page",
+        "date": "2012-01-26T13:51:50.417+09:00",
+        "hasAttachment": false,
+        "mails": [
+            {
+                "id": 1,
+                "to": "ashj@yahoo.com",
+                "subject": "[Github] Logout page",
+                "email_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel metus sit amet quam placerat congue.",
+                "date": "2012-01-26T13:51:50.417+09:00"
+            }
+        ]
+    }
+]
